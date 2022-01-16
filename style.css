@@ -17,6 +17,11 @@
     width: 100%;
 }
 
+.ms_lens{
+    width: 25px;
+    height: 25px;
+}
+
 .jumbotron{
     background-image: url('img/jumbo-bg.png');
     height: 600px;
@@ -43,6 +48,8 @@
 .ms_btn-radius{
     border-radius: 20px !important;
 }
+
+
 
 
 /* inizio thumbs */
@@ -87,3 +94,64 @@
     width: 100%;
 }
 /* fine thumbs-2 */
+
+/* inizio info playstation 4 img */
+
+.info-playstation-4-img img{
+    width: 100%;
+}
+
+/* fine info playstation 4 img */
+
+/* inizio jumbotron 3 */
+
+.jumbotron-3{
+    background-color: rgb(116, 103, 103);
+}
+
+.jumbotron-3 img{
+    width: 100%;
+    height: 100%;
+}
+
+/* fine jumbotron 3 */
+
+/* inizio info-sconti */
+
+.info-sconti img{
+    width: 100%;
+}
+/* fine info-sconti */
+
+/* inizio jumbotron 4 */
+
+.jumbotron-4{
+    background-color: rgb(10, 10, 84);
+    color: white;    
+}
+
+.jumbotron-4 .img-jumbotron-4{
+    width: 100% !important;
+}
+
+.ms_logo-jumbotron-4{
+    width: 100px;
+    height: 150px;
+}
+
+/* fine jumbotron 4 */
+
+/* inizio social */
+.ms_social img{
+    width: 100%;
+}
+/* fine social */
+
+/* inizio footer menu */
+.ms_footer-menu{
+    background-color: rgb(56, 71, 149);
+}
+.ms_footer-menu ul li{
+    list-style: none;
+}
+/* fine footer menu */
