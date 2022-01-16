@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* inizio header top */
 
 .header-top{
     background-color: black;
@@ -17,10 +18,9 @@
     width: 100%;
 }
 
-.ms_lens{
-    width: 25px;
-    height: 25px;
-}
+/* fine header top */
+
+/* inizio jumbotron */
 
 .jumbotron{
     background-image: url('img/jumbo-bg.png');
@@ -49,7 +49,7 @@
     border-radius: 20px !important;
 }
 
-
+/* fine jumbotron */
 
 
 /* inizio thumbs */
